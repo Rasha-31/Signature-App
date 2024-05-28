@@ -1,1 +1,2 @@
 This signature app not only allows you to create and manage digital signatures but also offers customization options to personalize your signature. You can choose different text colors and background colors to make your signature unique. After creating your signature, you can easily download it for future use, ensuring you have your personalized signature ready whenever you need it.
+![Screenshot 2024-05-28 155518](https://github.com/Rasha-31/Signature-App/assets/115500533/60b80e35-2dec-41d4-8c42-88f605472db5)
